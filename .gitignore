@@ -1,3 +1,11 @@
+# My files
+softmax.pdf 
+test.csv
+train.csv
+classifier.pkl  
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
